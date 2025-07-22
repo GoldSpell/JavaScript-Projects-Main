@@ -13,4 +13,4 @@ A collection of fun JavaScript projects:
 
 ---
 
-© 2025 [Your Name]. All rights reserved.
+© 2025 GoldSpell. All rights reserved.
